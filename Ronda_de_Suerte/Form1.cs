@@ -13,7 +13,7 @@ namespace Ronda_de_Suerte
     public partial class FRM_RONDA_DE_SUERTE : Form
     {
         PARTICIPANTE P;
-
+        //cambiar el pañal de teffy rata
         bool bandera;
 
         public FRM_RONDA_DE_SUERTE()
