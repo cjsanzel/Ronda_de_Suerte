@@ -164,7 +164,7 @@ namespace Ronda_de_Suerte
                 else
                 {
 
-                    LBL_DADO.Text = "---";                    
+                    LBL_DADO.Text = "---";  // esto muestra el label desde el inicio                  
 
                     MessageBox.Show("* * EL Jugador * *" + P.eliminar(d) + " ES EL GANADOR ", "ADVERTENCIA", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
 
