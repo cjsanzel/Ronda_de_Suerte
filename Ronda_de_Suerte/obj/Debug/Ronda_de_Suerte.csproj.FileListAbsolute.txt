@@ -7,3 +7,12 @@ C:\Users\army_\Desktop\c#\Ronda_de_Suerte\Ronda_de_Suerte\obj\Debug\Ronda_de_Sue
 C:\Users\army_\Desktop\c#\Ronda_de_Suerte\Ronda_de_Suerte\obj\Debug\Ronda_de_Suerte.csproj.GenerateResource.Cache
 C:\Users\army_\Desktop\c#\Ronda_de_Suerte\Ronda_de_Suerte\obj\Debug\Ronda_de_Suerte.exe
 C:\Users\army_\Desktop\c#\Ronda_de_Suerte\Ronda_de_Suerte\obj\Debug\Ronda_de_Suerte.pdb
+C:\Users\army_\devolpment\Ronda_de_Suerte\Ronda_de_Suerte\bin\Debug\Ronda_de_Suerte.exe.config
+C:\Users\army_\devolpment\Ronda_de_Suerte\Ronda_de_Suerte\bin\Debug\Ronda_de_Suerte.exe
+C:\Users\army_\devolpment\Ronda_de_Suerte\Ronda_de_Suerte\bin\Debug\Ronda_de_Suerte.pdb
+C:\Users\army_\devolpment\Ronda_de_Suerte\Ronda_de_Suerte\obj\Debug\Ronda_de_Suerte.csprojResolveAssemblyReference.cache
+C:\Users\army_\devolpment\Ronda_de_Suerte\Ronda_de_Suerte\obj\Debug\Ronda_de_Suerte.FRM_RONDA_DE_SUERTE.resources
+C:\Users\army_\devolpment\Ronda_de_Suerte\Ronda_de_Suerte\obj\Debug\Ronda_de_Suerte.Properties.Resources.resources
+C:\Users\army_\devolpment\Ronda_de_Suerte\Ronda_de_Suerte\obj\Debug\Ronda_de_Suerte.csproj.GenerateResource.Cache
+C:\Users\army_\devolpment\Ronda_de_Suerte\Ronda_de_Suerte\obj\Debug\Ronda_de_Suerte.exe
+C:\Users\army_\devolpment\Ronda_de_Suerte\Ronda_de_Suerte\obj\Debug\Ronda_de_Suerte.pdb
