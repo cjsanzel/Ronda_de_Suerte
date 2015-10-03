@@ -15,6 +15,7 @@ namespace Ronda_de_Suerte
         PARTICIPANTE P;
         //mejorar mi codigo
         //vamos que se puede
+        // mata a la rata de tu izquierda
         bool bandera;
 
         public FRM_RONDA_DE_SUERTE()
